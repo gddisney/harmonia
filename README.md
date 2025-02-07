@@ -33,4 +33,7 @@ where $$\( w(t) \)$$ is a logarithmic renormalization weight function that regul
 ✔ **Provides a physics-grounded resolution to the Hubble Tension**  
 ✔ **Demonstrates prime gap stability functional as a validation of the Riemann Hypothesis**  
 
-=
+Wormhole simulation:
+```python3 wormhole.5.py```
+Gravitational simulation:
+```python3 gravity.2.py```
